@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "Goodreader"]
 	path = Goodreader
-	url = https://github.com/cran/Goodreader
+	url = https://github.com/chaoliu-cl/goodreader
