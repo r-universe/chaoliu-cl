@@ -5,3 +5,6 @@
 [submodule "Goodreader"]
 	path = Goodreader
 	url = https://github.com/chaoliu-cl/goodreader
+[submodule "conversim"]
+	path = conversim
+	url = https://github.com/chaoliu-cl/conversim
