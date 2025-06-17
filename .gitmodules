@@ -5,6 +5,9 @@
 [submodule "Goodreader"]
 	path = Goodreader
 	url = https://github.com/chaoliu-cl/goodreader
+[submodule "LBDiscover"]
+	path = LBDiscover
+	url = https://github.com/chaoliu-cl/lbdiscover
 [submodule "conversim"]
 	path = conversim
 	url = https://github.com/chaoliu-cl/conversim
