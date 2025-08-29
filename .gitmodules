@@ -11,6 +11,9 @@
 [submodule "conversim"]
 	path = conversim
 	url = https://github.com/chaoliu-cl/conversim
+[submodule "searchAnalyzeR"]
+	path = searchAnalyzeR
+	url = https://github.com/chaoliu-cl/searchanalyzer
 [submodule "textAnnotatoR"]
 	path = textAnnotatoR
 	url = https://github.com/chaoliu-cl/textannotator
